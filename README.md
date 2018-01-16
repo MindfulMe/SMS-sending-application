@@ -4,15 +4,17 @@ Node.js app that uses Nexmo to send SMS text messages
 
 ### Installation
 Type in the following commands:
-
+```sh
 npm init
-
+```
+```sh
 npm install --save express ejs nexmo body-parser socket.io
-
+```sh
 ### Running
 Type in the following commands:
-
+```sh
 node app
+```
 ### Using
 Open up your browser and go to "localhost:3000"
 
