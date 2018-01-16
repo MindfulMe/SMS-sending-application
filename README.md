@@ -6,10 +6,10 @@ Node.js app that uses Nexmo to send SMS text messages
 Type in the following commands:
 ```sh
 npm init
-```
-```sh
+
+
 npm install --save express ejs nexmo body-parser socket.io
-```sh
+```
 ### Running
 Type in the following commands:
 ```sh
