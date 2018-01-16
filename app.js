@@ -37,7 +37,7 @@ app.post('/', (req, res) => {
   const text = req.body.text;
 
   nexmo.message.sendSms(
-    '380937064623', number, text, { type: 'unicode' },
+    'ENTER_YOUR_OHONE_NUMBER_FROM_NEXMO', number, text, { type: 'unicode' }, //get it on https://dashboard.nexmo.com/sign-up
     (err, responseData) => {
       if(err) {
         console.log(err);
