@@ -21,4 +21,4 @@ Open up your browser and go to "localhost:3000"
 ### Nexmo API Keys
 You will need to add your own Nexmo api key, secret and virtual number
 
-Get it on https://dashboard.nexmo.com/sign-up
+Get it on [NEXMO](https://dashboard.nexmo.com/sign-up)
